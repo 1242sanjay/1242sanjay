@@ -42,5 +42,5 @@ Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 ## SKILLS & CERTIFICATIONS
 * **Online Courses:** Java Full Stack Development([View](https://drive.google.com/file/d/1ZioOoZf_FLe9MA4HMSriG2elaAyd0Gx-/view?usp=sharing)), AWS Machine Learning([View](https://drive.google.com/file/d/1BM4ZbfL8uQBgpVXpnAHJmBrR-OXaJ1ex/view?usp=sharing))
-* **Skill:** SQL, Numpy, Pandas, Python, Excel, Tableau, Git, Flask, Web Development, Web Scraping, ML & DL
+* **Skill:** SQL, Numpy, Pandas, Python, Excel, Tableau, Git, OpenCV, Flask, Django, Web Development, Web Scraping, ML & DL
 
