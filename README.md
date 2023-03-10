@@ -25,6 +25,11 @@ Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 * Promoted in 6 months of joining for exceptional performance
 
 ## PROJECTS ([View all](https://jovian.ai/1242sanjay/collections/projects))
+#### Heart Disease Prediction Using Machine Learning ([View](https://jovian.ai/1242sanjay/ml-project-first-1))
+* Cleaned & analyzed dataset with 0.31 million+ rows & 18 columns to predict heart disease
+* Trained logistic regression models, decision tree and random forests using scikit-learn
+* Achieved accuracy of 91.4% on the testing set by selecting the best model
+
 #### Exploratory Data Analysis of Indian Cities Housing Property Price ([View](https://jovian.ai/1242sanjay/project-exploratory-data-analysis))
 * Analyzed Datasets for 0.33 million+ properties containing 16 columns using Pandas
 * Created visualizations using Matplotlib, Seaborn  Plotly, Folium and WordCloud
